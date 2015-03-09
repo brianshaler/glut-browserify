@@ -1,0 +1,22 @@
+{
+  "name": "gulplug-browserify",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": {
+    "name": "Brian Shaler",
+    "email": "brianshaler@gmail.com",
+    "url": "http://brianshaler.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brianshaler/gulplug-browserify"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "gulp-browserify": "^0.5.1"
+  },
+  "readme": "TODO"
+}
